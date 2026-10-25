@@ -1,0 +1,19 @@
+# Katherine Delaney
+
+> Content strategist based in Boston, working with clients worldwide. Content strategy, storytelling, and accessible websites for public-sector and mission-driven teams, including healthcare organizations, universities, schools, and nonprofits.
+
+Katherine Delaney worked inside healthcare organizations, universities, schools, and nonprofits before becoming a consultant. She helps organizations bring order to complex websites and tell the story behind their mission, and she does the work herself, from the first audit to the final page.
+
+## Services
+
+- [Content strategy and governance](https://katherinedelaney.com/services.html): Audits, information architecture, migrations, and plain-language content, with clear ownership so it stays organized after launch.
+- [Stories, written by a person](https://katherinedelaney.com/services.html): Impact stories, web copy, and newsletters built from real conversations with the people behind your mission.
+- [Accessible from the start](https://katherinedelaney.com/services.html): Testing sites and documents against WCAG 2.1 AA and Section 508, then fixing what's broken.
+
+## Case studies
+
+- [From Backlog to Practice: Building an Accessibility Practice Inside a University](https://katherinedelaney.com/case-study-backlog-to-practice.html): How a mid-to-large private university moved from reactive document remediation to an internal accessibility practice that serves students and staff. Published June 1, 2026.
+
+## Contact
+
+- [Book a time to talk](https://katherinedelaney.com/contact.html)
